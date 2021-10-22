@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"sortvisualiser"},{"l":"sortvisualiser.algorithms"},{"l":"sortvisualiser.screens"},{"l":"sortvisualiser.Util"}];updateSearchResults();
